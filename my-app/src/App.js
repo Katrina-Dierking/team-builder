@@ -15,6 +15,7 @@ function App() {
     <div>
       <div className ="teamSection">
       <h1>Katrina's Team Members</h1>
+  
       <TeamList teamList={members} />
       </div>
 

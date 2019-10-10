@@ -1,39 +1,39 @@
 const TeamData = [
     {
-        Name: "Katrina",
+        name: "Katrina Wampler-Dierking",
         email: "Katrina@gmail.com",
-        role: "President"
+        role: "Queen"
     },
 
     {
-        Name: "Nolan",
+        name: "Nolan Dierking",
         email: "Nolan@gmail.com",
-        role: "Servant to the President"
+        role: "Servant to the Queen"
     },
 
     {
-        Name: "Miss Channing",
+        name: "Miss Channing Dierking",
         email: "PrincessChanning@gmail.com",
         role: "Most Royal Princess"
     },
 
     {
-        Name: "Mikayla",
+        name: "Mikayla Wampler",
         email: "mikayla@gmail.com",
         role: "Royal Pain in the Rear"
     },
 
-    {
-        Name: "Colby",
+    {   
+        name: "Colby Wampler",
         email: "Colby@gmail.com",
-        role: "Driving Me to Drink"
+        role: "Driver to the Alcohol"
 
     },
 
     { 
-        Name: "Jathe",
+        name: "Jathe Wampler",
         email: "Jathe@gmail.com",
-        role: "Saving the World"
+        role: "Warrior for the Commons"
     
     },
 ]
